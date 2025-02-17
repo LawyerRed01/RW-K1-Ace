@@ -1,0 +1,16 @@
+{
+	"id": "rwK1Aces",
+	"name": "Rain World Karma 1 Aces",
+	"display_name": "RW Karma 1 Aces",
+	"author": ["LawyerRed"],
+	"description": "A version of the Rain World card deck that sets the Ace to Karma 1 instead of Karma 10.",
+	"prefix": "rwK1Ace",
+	"main_file": "RW-K1-Ace.lua",
+	"priority": 0,
+	"badge_colour": "DF4A5E",
+	"badge_text_colour": "FFFFFF",
+	"version": "1.0.0",
+	"dependencies": [
+		"Steamodded (>=1.*)"
+	]
+}
